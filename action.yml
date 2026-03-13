@@ -1,0 +1,14 @@
+name: CoderCo-Custom-Action 
+
+description: greet someone and record time 
+
+inputs: 
+  who-to-greet: 
+    description: who to greet 
+    required: true
+    default: hello
+
+runs: 
+  using: node20
+  main: dist/index.js 
+ 
