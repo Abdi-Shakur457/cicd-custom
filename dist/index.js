@@ -5,7 +5,7 @@
 /******/ 	
 /************************************************************************/
 var __webpack_exports__ = {};
-const core = required('@actions/core') 
+const core = require('@actions/core') 
 
 
 try { 
