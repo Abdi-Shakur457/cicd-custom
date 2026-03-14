@@ -1,0 +1,20 @@
+{
+  "name": "ci-cd-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdi-Shakur457/cicd-custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdi-Shakur457/cicd-custom/issues"
+  },
+  "homepage": "https://github.com/Abdi-Shakur457/cicd-custom#readme"
+}
