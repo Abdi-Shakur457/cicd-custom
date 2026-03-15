@@ -1,7 +1,6 @@
 {
   "name": "ci-cd-custom",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +17,7 @@
   },
   "homepage": "https://github.com/Abdi-Shakur457/cicd-custom#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0"
-  }
+    "@actions/core": "^1.10.0"
+  },
+  "description": ""
 }
