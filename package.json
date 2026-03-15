@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Abdi-Shakur457/cicd-custom/issues"
   },
-  "homepage": "https://github.com/Abdi-Shakur457/cicd-custom#readme"
+  "homepage": "https://github.com/Abdi-Shakur457/cicd-custom#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.0"
+  }
 }
